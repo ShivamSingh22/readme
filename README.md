@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsingh22" alt="shivamsingh22" /></a> </p>
 
-- 🔭 I’m currently working on **Expense-Tracker**
-
 - 🌱 I’m currently learning **NextJS.**
 
 - 👯 I’m looking to collaborate on **web development projects.**
