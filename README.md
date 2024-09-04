@@ -11,15 +11,9 @@
 
 - 👯 I’m looking to collaborate on **web development projects.**
 
-- 🤝 I’m looking for help with **a new job.**
-
-- 👨‍💻 All of my projects are available at [pinnned github.](pinnned github.)
-
-- 💬 Ask me about **node, express, react or any web related topics.**
+- 💬 Ask me about **node, express, react or any web related topic.**
 
 - 📫 How to reach me **singh.shivam2238@gmail.com**
-
-- ⚡ Fun fact **I am 1100 ELO chess.com and want to be GM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
